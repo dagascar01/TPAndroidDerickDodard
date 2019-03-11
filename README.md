@@ -1,2 +1,2 @@
-# TPAndroidDerickDodard
-TP Android 1 Jerome Derick et Vincent Dodard
+# TPAndroidDeRyckeDodard
+TP Android 1 Jerome De Rycke et Vincent Dodard
